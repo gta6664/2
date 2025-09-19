@@ -552,8 +552,8 @@
             }
         },
 {
-            "key": "即看影视",
-            "name": "即看影视",
+            "key": "厂长资源",
+            "name": "厂长资源",
             "type": 3,
             "jar": "./XBPQ.jar",
             "api": "csp_XBPQ",
@@ -561,6 +561,19 @@
             "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
                 "分类url": "https://www.cz233.com/;;!",
+                "简介": "🍁凯少爷🍁水印广告勿信，谨防诈骗🍁"
+            }
+        },
+{
+            "key": "70",
+            "name": "70",
+            "type": 3,
+            "jar": "./XBPQ.jar",
+            "api": "csp_XBPQ",
+            "ext": {
+            "请求头": "User-Agent$MOBILE_UA",
+                "编码": "UTF-8",
+                "分类url": "https://v2.100fyy8.com/;;!",
                 "简介": "🍁凯少爷🍁水印广告勿信，谨防诈骗🍁"
             }
         },
@@ -573,22 +586,6 @@
             "ext": {
                 "分类": "短剧$duanju#电影$dianying#电视剧$dianshiju#动漫$dongman#综艺$zongyi",
                 "分类url": "https://www.duanjuwang.cc/vodtype/{cateId}/page/{catePg}.html"
-            }
-        },
-        {
-            "key": "凯少爷蚂蚁影库",
-            "name": "凯少爷蚂蚁影库",
-            "type": 3,
-            "api": "csp_XBPQ",
-            "jar": "./xyqxbpq.jar",
-            "ext": {
-                "请求头": "User-Agent$MOBILE_UA",
-                "编码": "UTF-8",
-                "分类url": "https://www.mayiyingku.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html[https://www.mayiyingku.com/show/{cateId}-{area}-{by}-{class}-{lang}-{letter}---{catePg}---{year}.html];;x",
-                "分类": "电影$1#连续剧$2#动漫$4#综艺$3",
-                "线路数组": "hl-tabs-btn hl-slide-swiper&&</a >",
-                "线路标题": "🍁凯少爷🍁祝您观影愉快🍁",
-                "简介": "🍁凯少爷🍁水印广告勿信，谨防诈骗🍁"
             }
         },
         {
