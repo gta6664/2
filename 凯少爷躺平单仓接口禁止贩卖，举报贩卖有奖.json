@@ -73,6 +73,13 @@
                 "ratio": 1.5
             }
         },
+{
+            "key": "huban",
+            "name": "虎斑弹幕|小窗",
+            "type": 3,
+            "jar": "./HubanTC.jar",
+             "api": "csp_Huban"
+        },
         {
             "key": "玩偶",
             "name": "👽玩偶哥哥┃4K弹幕",
@@ -587,7 +594,7 @@
             "请求头": "User-Agent$MOBILE_UA",
                 "编码": "UTF-8",
                 "分类": "反转爽剧$fanzhuanshuangju#女频恋爱$nvpinlianai#脑洞悬凝$naodongxuanyi#穿越年代$chuanyueniandai#古装仙侠$guzhuangxianxia#现代都市$xiandaidushi",
-                "分类url": "https://www.duanju5.cc/vodshow/{cateId}--------{catePg}---/",
+                "分类url": "https://www.duanju2.com/show/{cateId}--------{catePg}---.html",
                 "简介": "🍁凯少爷🍁水印广告勿信，谨防诈骗🍁"
             }
         },
