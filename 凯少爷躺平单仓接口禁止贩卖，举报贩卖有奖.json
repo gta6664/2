@@ -80,26 +80,7 @@
             "jar": "./HubanTC.jar",
              "api": "csp_Huban"
         },
-    {
-      "key": "玩偶",
-      "name": "玩偶｜4K",
-      "type": 3,
-      "api": "csp_Wogg",
-	  "jar": "./我的.jar",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "changeable": 1,
-      "ext": {
-        "site": [
-          "https://www.wogg.lol",
-          "https://wogg.xxooo.cf",
-          "https://www.wogg.one",
-          "https://wogg.333232.xyz",
-          "https://woggpan.888484.xyz"
-        ]
-      }
-    },
+
 {
             "key": "凯少爷音乐",
             "name": "🍁凯少爷🍁🅱哔哔合集",
