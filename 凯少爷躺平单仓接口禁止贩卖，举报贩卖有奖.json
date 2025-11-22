@@ -80,7 +80,17 @@
             "jar": "./HubanTC.jar",
              "api": "csp_Huban"
         },
-
+{
+      "key": "玩偶哥哥",
+      "name": "玩偶｜4K",
+      "type": 3,
+      "api": "csp_PanWebShare",
+	  "jar": "./新凡人.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "./wogg.json"
+    },
 {
             "key": "凯少爷音乐",
             "name": "🍁凯少爷🍁🅱哔哔合集",
