@@ -31,8 +31,8 @@
             "filterable": 0
         },
         {
-            "key": "禁止偷拿去拍视频无敌凯少爷豆瓣3",
-            "name": "禁止偷拿去拍视频无敌凯少爷豆瓣3",
+            "key": "禁止偷拿去拍视频云璇玑豆瓣3",
+            "name": "禁止偷拿去拍视频云璇玑豆瓣3",
             "type": 3,
             "api": "csp_DouDou",
             "jar": "./555.txt",
@@ -126,6 +126,30 @@
                 "danmu": true
             }
         },
+    {
+      "key": "潮流",
+      "name": "潮流┃APP",
+      "type": 3,
+      "api": "csp_AppRJ",
+	  "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d",
+      "ext": "http://v.rbotv.cn"
+    },
+    {
+      "key": "肥猫",
+      "name": "肥猫┃APP",
+      "type": 3,
+      "api": "csp_AppGet",
+	  "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d",
+      "ext": "http://103.236.61.192:8006|123456789abcdefg"
+    },
+    {
+      "key": "干饭",
+      "name": "干饭┃APP",
+      "type": 3,
+      "api": "csp_AppQi",
+	  "jar": "https://img2.gelonghui.com/library/eadaa-7cea026a-878c-484b-8904-3e1d87a69041.png;md5;eadaaee8e25f5d590dc4f40488207d0d",
+      "ext": "https://staraugust123456.oss-cn-hangzhou.aliyuncs.com/2.txt|staraugust123456|120"
+    },
         {
             "key": "云璇玑QQ群: 750301216",
             "name": "5秒播云璇玑QQ群: 750301216",
