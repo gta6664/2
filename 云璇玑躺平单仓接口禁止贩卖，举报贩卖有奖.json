@@ -85,6 +85,15 @@
             "jar": "./HubanTC.jar",
              "api": "csp_Huban"
         },
+    {
+            "key": "干哥的女儿",
+            "name": "干哥的女儿",
+            "type": 1,
+            "api": "https://api.wsyzy.net/api.php/provide/vod/",
+            "quickSearch": 1,
+            "searchable": 1,
+            "filterable": 0
+        },
 {
       "key": "玩偶哥哥",
       "name": "玩偶｜4K",
